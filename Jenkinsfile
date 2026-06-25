@@ -50,7 +50,7 @@ pipeline {
             emailext(
                 subject: "SUCCESS: Jenkins Build",
                 body: "Build completed successfully.",
-                to: "rupeshb8087@gmail.com"
+                to: "rupeshjio8087@gmail.com"
             )
         }
 
@@ -58,7 +58,10 @@ pipeline {
             emailext(
                 subject: "FAILED: Jenkins Build",
                 body: "Build failed. Please check Jenkins.",
-                to: "rupeshb8087@gmail.com"
+                to: "rupeshjio8087@gmail.com"
+
+
+                #comment
             )
         }
     }
