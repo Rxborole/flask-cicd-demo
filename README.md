@@ -331,6 +331,6 @@ https://github.com/Rxborole/flask-cicd-demo
 
 **Rupesh Borole**
 
-Senior Software Engineer (DevOps)
+Senior Software Engineer
 
 AWS | Jenkins | GitHub Actions | Docker | Kubernetes | Terraform
